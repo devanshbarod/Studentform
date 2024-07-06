@@ -109,7 +109,7 @@ nav a samp{
         </nav>
         <div class="text-box">
             <h1>Not a Member Yet ?</h1>
-            <a href="http://localhost/muportal/requestform.php">Request Access</a>
+            <a href="requestform.php">Request Access</a>
         </div>
         <div class="new">
             <h1>THE LINEAR GARDIAN</h1>
