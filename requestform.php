@@ -29,8 +29,8 @@
 }
 </style>
 <body>
-    <a href="http://localhost/muportal/employee.php"><h1 class="name">Employee</h1></a>
+    <a href="employee.php"><h1 class="name">Employee</h1></a>
     
-    <a href="http://localhost/muportal/studentform.php"><h1 class="n2">Student</h1></a>
+    <a href="studentform.php"><h1 class="n2">Student</h1></a>
 </body>
 </html>
